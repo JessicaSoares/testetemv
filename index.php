@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ionic Basics</title>
@@ -28,6 +29,7 @@
 
         <ion-content class="ion-padding">
         <form id="formulario" name="formulario" method="post" action="pesquisa.php">
+        
         <ion-item>
                 <ion-label position="floating">Insira a tag do jogador (Sem o #)</ion-label>
                 <ion-input id="tag" name="tag" type="text"></ion-input>
