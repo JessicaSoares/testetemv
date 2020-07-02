@@ -31,8 +31,13 @@
         <form id="formulario" name="formulario" method="post" action="pesquisa.php">
         
         <ion-item>
-                <ion-label position="floating">Insira a tag do jogador (Sem o #)</ion-label>
-                <ion-input id="tag" name="tag" type="text"></ion-input>
+                <ion-label position="floating">Insira a tag do jogador 1 (Sem o #)</ion-label>
+                <ion-input id="tag1" name="tag1" type="text"></ion-input>
+            </ion-item>
+
+            <ion-item>
+                <ion-label position="floating">Insira a tag do jogador 2 (Sem o #)</ion-label>
+                <ion-input id="tag2" name="tag2" type="text"></ion-input>
             </ion-item>
       
   <br />
